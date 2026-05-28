@@ -1,5 +1,5 @@
 # Change line 1 from cask "catbrowser-15" do
-cask "catbrowser" do
+cask "catbrowser15" do
   version "1.0.0.0"
   sha256 :no_check
   # ... leave the rest of your file exactly as it is
