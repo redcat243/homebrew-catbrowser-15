@@ -1,4 +1,4 @@
-cask "catbrowser-15" do
+cask "catbrowser" do
   version "1.0.0.0"
   sha256 :no_check
 
