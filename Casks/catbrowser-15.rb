@@ -1,6 +1,8 @@
+# Change line 1 from cask "catbrowser-15" do
 cask "catbrowser" do
   version "1.0.0.0"
   sha256 :no_check
+  # ... leave the rest of your file exactly as it is
 
   # This is the correct Release Download URL for Homebrew
   url "https://github.com/redcat243/catbrowser-15/releases/download/1.0.0.0/CatBrowser.zip"
