@@ -1,4 +1,4 @@
-cask "catbrowser" do
+cask "catbrowser-15" do
   version "1.0.0.0"
   sha256 :no_check
 
@@ -8,7 +8,7 @@ cask "catbrowser" do
   # This is your actual repository link
   homepage "https://github.com/redcat243/catbrowser-15/releases"
   
-  name "CatBrowser"
+  name "CatBrowser-15"
   desc "Lightweight tab-less web browser rvamped for macOS 15"
   depends_on macos: ">= :sonoma"
   
