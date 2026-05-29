@@ -11,7 +11,7 @@ cask "catbrowser15" do
   homepage "https://github.com/redcat243/catbrowser-15/releases"
   
   name "CatBrowser-15"
-  desc "Lightweight tab-less web browser rvamped for macOS 15"
+  desc "Lightweight tab-less web browser revamped for macOS 15 if you accedentally found this one and youre looking for the one for macos 12 use this command : brew tap redcat243/catbrowser brew install redcat243/catbrowser/catbrowser"
   depends_on macos: ">= :sonoma"
   
   app "CatBrowser.app"
